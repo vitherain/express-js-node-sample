@@ -17,11 +17,7 @@ Getting Started
 
 ```sh
 # clone it
-git clone git@github.com:developit/express-es6-rest-api.git
-cd express-es6-rest-api
-
-# Make it your own
-rm -rf .git && git init && npm init
+git clone git@github.com:vitherain/express-js-node-sample.git
 
 # Install dependencies
 npm install
@@ -35,8 +31,6 @@ PORT=8080 npm start
 Docker Support
 ------
 ```sh
-cd express-es6-rest-api
-
 # Build your docker
 docker build -t es6/api-service .
 #            ^      ^           ^

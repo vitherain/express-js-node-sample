@@ -26,9 +26,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/developit/express-es6-rest-api.git"
+    "url": "git+https://github.com/vitherain/express-js-node-sample.git"
   },
-  "author": "Jason Miller <jason@developit.ca>",
+  "author": "Vít Herain",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.13.3",
@@ -47,7 +47,6 @@
     "nodemon": "^1.9.2"
   },
   "bugs": {
-    "url": "https://github.com/developit/express-es6-rest-api/issues"
-  },
-  "homepage": "https://github.com/developit/express-es6-rest-api#readme"
+    "url": "https://github.com/vitherain/express-js-node-sample/issues"
+  }
 }
